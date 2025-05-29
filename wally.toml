@@ -1,7 +1,7 @@
 [package]
 name = "kryptra/token"
 description = "Token"
-version = 1.0.1
+version = "1.0.1"
 license = "MIT"
 authors = ["kryptra"]
 registry = "https://github.com/UpliftGames/wally-index"
