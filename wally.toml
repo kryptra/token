@@ -1,0 +1,10 @@
+[package]
+name = "kryptra/token"
+description = "Token"
+version = 1.0.0"
+license = "MIT"
+authors = ["kryptra"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
