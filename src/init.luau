@@ -1,6 +1,6 @@
 --// Public
 
-local function token(identifier: string?): any
+local function new(identifier: string?): any
 	if not identifier then
 		return newproxy()
 	end
@@ -17,5 +17,5 @@ end
 --// Export
 
 return table.freeze({
-	token = token,
+	new = new,
 })
